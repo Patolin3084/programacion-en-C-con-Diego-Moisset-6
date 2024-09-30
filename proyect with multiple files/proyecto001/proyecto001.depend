@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1707892471 source:c:\users\rastr\onedrive\escritorio\cursos\programación en c\curso diego moisset de espanes\proyect with multiple files\proyecto002\proyecto002\main.c
+	<stdio.h>
+	"productos.h"
+
+1707892471 c:\users\rastr\onedrive\escritorio\cursos\programación en c\curso diego moisset de espanes\proyect with multiple files\proyecto002\proyecto002\productos.h
+
+1707892471 source:c:\users\rastr\onedrive\escritorio\cursos\programación en c\curso diego moisset de espanes\proyect with multiple files\proyecto002\proyecto002\productos.c
+	<stdio.h>
+	"productos.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1707900321 source:c:\users\rastr\onedrive\escritorio\cursos\programación en c\curso diego moisset de espanes\proyect with multiple files and extern\proyect003\main.c
+	<stdio.h>
+	<conio.h>
+	"pila.h"
+
+1707900321 c:\users\rastr\onedrive\escritorio\cursos\programación en c\curso diego moisset de espanes\proyect with multiple files and extern\proyect003\pila.h
+
+1707900440 source:c:\users\rastr\onedrive\escritorio\cursos\programación en c\curso diego moisset de espanes\proyect with multiple files and extern\proyect003\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
